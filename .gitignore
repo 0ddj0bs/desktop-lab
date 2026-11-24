@@ -2,4 +2,5 @@
 *.pyc
 .venv/
 venv/
-*.db
+*.dbscratchpad/scratchpad.txt
+scratchpad/scratchpad.txt
